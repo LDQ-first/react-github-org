@@ -3,7 +3,7 @@
 > React全家桶实现github用户和组织查询
 
 
-> [预览地址](http://ldq-first.github.io/react-github-org/dist/#/)
+> [预览地址](http://ldqblog.me/react-github-org/dist/#/)
 
 
 ## 技术栈
@@ -26,5 +26,5 @@
 
 ## 效果图
 
-![效果图](https://ldq-first.github.io/react-github-org/static/result/001.jpg)
-![效果图](https://ldq-first.github.io/react-github-org/static/result/002.jpg)
+![效果图](http://ldqblog.me/react-github-org/static/result/001.jpg)
+![效果图](http://ldqblog.me/react-github-org/static/result/002.jpg)
